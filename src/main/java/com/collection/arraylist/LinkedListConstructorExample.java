@@ -10,6 +10,11 @@ public class LinkedListConstructorExample {
         list.add(10);
         list.add(null);
         list.add("seema");
+        list.add("seema");
+        list.add("Rekha");
+        list.add(10);
+        list.add(null);
+        list.add("seema");
         list.addLast(10);
 
     }
