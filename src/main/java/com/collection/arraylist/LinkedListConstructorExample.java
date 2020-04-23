@@ -10,7 +10,6 @@ public class LinkedListConstructorExample {
         list.add(10);
         list.add(null);
         list.add("seema");
-        System.out.println(list);
         list.addLast(10);
 
     }
